@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="main_svg"
+   width="504"
+   height="300"
+   version="1.1"
+   sodipodi:docname="growth-sequence-3.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showborder="false"
+     inkscape:zoom="2.211554"
+     inkscape:cx="241.007"
+     inkscape:cy="165.94666"
+     inkscape:window-width="1920"
+     inkscape:window-height="1150"
+     inkscape:window-x="0"
+     inkscape:window-y="50"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="main_svg" />
+  <g
+     id="svg_g_bezier_cells"
+     style="display:none">
+    <path
+       d="M 207.87793,0 224.209,139.14071 277.87843,181.95216 504,70.630769 V 0 Z"
+       fill="#221155"
+       fill-opacity="0.2"
+       id="path1" />
+    <path
+       d="M 0,252.76014 224.209,139.14071 207.87793,0 H 0 Z"
+       fill="#221155"
+       fill-opacity="0.2"
+       id="path2" />
+    <path
+       d="M 277.87843,181.95216 303.00743,300 H 504 V 70.630769 Z"
+       fill="#221155"
+       fill-opacity="0.2"
+       id="path3" />
+    <path
+       d="M 303.00743,300 277.87843,181.95216 224.209,139.14071 0,252.76014 V 300 Z"
+       fill="#221155"
+       fill-opacity="0.2"
+       id="path4" />
+  </g>
+  <g
+     id="svg_g_edges">
+    <path
+       id="svg_path_edges"
+       d="M 224.209,139.14071 207.87793,0 M 277.87843,181.95216 504,70.630769 M 224.209,139.14071 0,252.76014 m 224.209,-113.61943 53.66943,42.81145 m 0,0 L 303.00743,300 M 0,252.76014 V 300 m 0,0 h 303.00743 m 0,0 H 504 m 0,0 V 70.630769 M 207.87793,0 H 0 M 0,0 V 252.76014 M 504,70.630769 V 0 m 0,0 H 207.87793"
+       stroke="#000000"
+       stroke-width="2"
+       style="display:none" />
+  </g>
+  <circle
+     style="fill:#8fe31d;fill-opacity:0.655818;stroke:#000000;stroke-width:2;stroke-dasharray:none"
+     id="path5"
+     cx="112.82587"
+     cy="103.79205"
+     r="35" />
+  <circle
+     style="fill:#1d96e3;fill-opacity:0.655818;stroke:#000000;stroke-width:2;stroke-dasharray:none"
+     id="path5-3"
+     cx="325.86133"
+     cy="78.666206"
+     r="35" />
+  <circle
+     style="fill:#e3b31d;fill-opacity:0.655818;stroke:#000000;stroke-width:2;stroke-dasharray:none"
+     id="path5-3-3"
+     cx="389.95178"
+     cy="208.57309"
+     r="35" />
+  <circle
+     style="fill:#e31d1d;fill-opacity:0.655818;stroke:#000000;stroke-width:2;stroke-dasharray:none"
+     id="path5-3-3-3"
+     cx="187.8593"
+     cy="251.47943"
+     r="35" />
+  <g
+     id="svg_g_seeds">
+    <circle
+       id="c_0"
+       cx="326"
+       cy="79"
+       r="3.75"
+       stroke="#000000"
+       stroke-width="2.5"
+       fill="#1f7bfd"
+       style="stroke-width:1.5;stroke-dasharray:none;fill:#1d96e4;fill-opacity:1" />
+    <circle
+       id="c_1"
+       cx="188"
+       cy="252"
+       r="3.75"
+       stroke="#000000"
+       stroke-width="2.5"
+       fill="#1f7bfd"
+       style="stroke-width:1.5;stroke-dasharray:none;fill:#e41d1d;fill-opacity:1" />
+    <circle
+       id="c_2"
+       cx="390"
+       cy="209"
+       r="3.75"
+       stroke="#000000"
+       stroke-width="2.5"
+       fill="#1f7bfd"
+       style="stroke-width:1.5;stroke-dasharray:none;fill:#e4b31d;fill-opacity:1" />
+    <circle
+       id="c_3"
+       cx="113"
+       cy="104"
+       r="3.75"
+       stroke="#000000"
+       stroke-width="2.5"
+       fill="#1f7bfd"
+       style="stroke-width:1.5;stroke-dasharray:none;fill:#90e41d;fill-opacity:1" />
+  </g>
+  <rect
+     style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.99209;stroke-dasharray:none"
+     id="rect5"
+     width="502.0079"
+     height="298.81424"
+     x="0.9960475"
+     y="0.9960475" />
+</svg>
